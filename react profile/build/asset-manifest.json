@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.bbc591cf.js",
+    "static/media/chenga img.jpg": "/static/media/chenga img.9dbae049fdd941995013.jpg",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.bbc591cf.js.map": "/static/js/main.bbc591cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.bbc591cf.js"
+  ]
+}
